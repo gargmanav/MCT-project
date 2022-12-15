@@ -73,7 +73,7 @@
     position: relative;
     align-items: center;
     /* border: 2px solid black; */
-    background-image: url("geeksterpage/banner.jpg");
+    background-image: url("banner.jpg");
 }
 .leftlandingpage{
     font-family: 'Poppins', sans-serif;
