@@ -134,6 +134,9 @@
     padding-left: 10px;
     font-family: 'Poppins', sans-serif;
 }
+.cards h2{
+    margin-left: 15px;
+}
 .companiesimg{
     display: flex;
     flex-wrap: wrap;
