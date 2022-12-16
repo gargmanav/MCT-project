@@ -146,6 +146,9 @@
     padding-bottom: 85px;
     font-family: 'Poppins', sans-serif;
 }
+.leftwala2 h2{
+    margin-left: 20px;
+}
 .advantage{
     
     display: flex;
