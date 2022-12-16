@@ -146,8 +146,7 @@
     padding-bottom: 85px;
     font-family: 'Poppins', sans-serif;
 }
-.leftwala2 h2{
-    margin-left: 20px;
+
 }
 .advantage{
     
@@ -345,6 +344,9 @@ border-radius: 10px 10px 0px 0px;
     display: flex;
     justify-content: space-around;
     margin-left: -78px;
+}
+.leftwala2 h2{
+    margin-left: 20px;
 }
 .leftwala3{
     display: flex;
